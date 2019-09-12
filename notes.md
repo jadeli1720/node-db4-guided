@@ -1,8 +1,9 @@
-# Requirements
+# Notes
 
-A client has hired you to track zoo animals.
-For each individual animal, you must track that their name, species, and all zoos in which they have resided (including zoo name and address).
+## A good data model
 
-Determine the database tables necessary to track this information.
-
-Label any relationships between table.
+- Captures ALL the information the system needs
+- Captures ONLY the information the system needs <---- Abstraction
+- reflects reality (from the point of view of teh system)
+- is flexible, can evolve with the system
+- 
